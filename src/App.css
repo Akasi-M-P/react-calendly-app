@@ -1,0 +1,219 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+body{
+    background-color: black;
+}
+
+.hero-container{
+    margin-top: 10rem;
+    /* background-color: black; */
+}
+
+
+
+.input-group {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-align: stretch;
+    align-items: stretch;
+    width: 50%;
+}
+
+.mid-cont{
+    margin-top: 10rem;
+}
+
+.icons{
+    margin-top: 5rem;
+}
+
+.icons img{
+    width: 200px;
+    height: 50px;
+    object-fit: contain;
+}
+
+.r-row{
+    height: 25rem;
+    /* background-color: aqua; */
+    margin-top: 5rem;
+}
+
+.but{
+    margin-top: 2rem;
+
+}
+
+.ent-hero{
+    height: 30rem;
+    margin-top: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.ent-visa{
+    height: 20rem;
+    
+}
+
+
+.hero-txt{
+    font-size: 50px;
+    font-weight: bolder;
+    color: white;
+}
+
+/* .ent-hero div{
+    width: 15rem;
+    height: 15rem;
+    background-color: aqua;
+} */
+
+/* .ent-visa{
+    height: 10rem;
+    background-color: aqua;
+    margin-top: 2rem;
+} */
+
+.learn-more{
+    margin-top: 2rem;
+}
+
+.team-hero{
+    height: 20rem;
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: brown; */
+}
+
+/* .team-hero div{
+    width: 25rem;
+    height: 15rem;
+    background-color: aqua;
+} */
+
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+    font-size: 20px;
+    font-weight: bolder;
+    font-family: monospace;
+}
+
+
+
+.bg-dark {
+    background-color: #030506!important;
+}
+
+.navbar {
+    position: fixed;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.5rem 1rem;
+    border: 1px solid white;
+}
+
+.sched p{
+  font-size: 80px;
+  font-weight: bolder;
+}
+
+
+body {
+    margin: 0;
+    font-family:monospace;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #f8f9fa;
+    text-align: left;
+}
+
+#acc-c{
+    font-size: 10px;
+    font-weight: bold;
+}
+
+#trusted{
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.footer{
+    margin-top: 10rem;
+}
+
+.ab{
+    height: 30px;
+    width: 30px;
+    border: 1px solid white;
+}
+
+#foot-title{
+    font-weight: bolder;
+    font-size: 20px;
+    color: aqua;
+}
+
+.spread{
+    height: 25rem;
+    /* background-color: aqua; */
+    margin-top: 5rem;
+    background-image: url("https://www.pngmagic.com/product_images/blue-aesthetic-background-idea.jpg");
+}
+
+.spread-text{
+    color: white;
+    font-size: 30px;
+    font-weight: bolder;
+    background-color: rgb(10, 64, 82);
+    margin-top: 5rem;
+}
+
+.ft{
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.ft-head{
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+.team-p p{
+    font-size: 40px;
+    font-weight: bolder;
+  }
+
+  .stream{
+    font-size: 50px;
+    font-weight: bolder;
+  }
+
+  .md-sol{
+    margin-top: 4rem;
+  }
+
+  .sol{
+    font-size: 30px;
+    color: blue;
+    font-weight: bolder;
+  }
+
+  .thumb{
+    margin-top: 4rem;
+  }
